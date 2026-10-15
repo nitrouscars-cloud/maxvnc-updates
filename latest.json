@@ -1,0 +1,17 @@
+{
+  "windows": {
+    "version": "2.4",
+    "url": "https://raw.githubusercontent.com/nitrouscars-cloud/maxvnc-updates/main/windows/MaxVNC_Setup_2.4.exe",
+    "sha256": "e5e0fcd000a1f010aae8d2f6b957fedc8a69165af7bfd2be5a5f95394743e87b",
+    "size": 24010240,
+    "notes": "Correctif de sécurité : authentification liée au certificat TLS. Mises à jour intégrées."
+  },
+  "android": {
+    "version": "2.4",
+    "code": 26,
+    "url": "https://raw.githubusercontent.com/nitrouscars-cloud/maxvnc-updates/main/android/MaxVNC_Viewer_Android_2.4.apk",
+    "sha256": "a365868159f993532a8adb2d6a2bb0f90299166770dd6f5b909aae160f97fb38",
+    "size": 185653,
+    "notes": "Correctif de sécurité : authentification liée au certificat TLS. Mises à jour intégrées."
+  }
+}
