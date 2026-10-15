@@ -1,10 +1,10 @@
 {
   "windows": {
-    "version": "2.4",
-    "url": "https://raw.githubusercontent.com/nitrouscars-cloud/maxvnc-updates/main/windows/MaxVNC_Setup_2.4.exe",
-    "sha256": "e5e0fcd000a1f010aae8d2f6b957fedc8a69165af7bfd2be5a5f95394743e87b",
-    "size": 24010240,
-    "notes": "Correctif de sécurité : authentification liée au certificat TLS. Mises à jour intégrées."
+    "version": "2.4.1",
+    "url": "https://raw.githubusercontent.com/nitrouscars-cloud/maxvnc-updates/main/windows/MaxVNC_Setup_2.4.1.exe",
+    "sha256": "20c1c07cca398fb4db907468440a82fca85b20c5351d9353c8728c69176f69d5",
+    "size": 24024064,
+    "notes": "Corrige le clavier et la souris ignorés par les fenêtres lancées en administrateur, et l'écran de connexion injoignable après une fermeture de session Windows."
   },
   "android": {
     "version": "2.4",
