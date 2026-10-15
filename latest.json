@@ -1,10 +1,10 @@
 {
   "windows": {
-    "version": "2.4.1",
-    "url": "https://raw.githubusercontent.com/nitrouscars-cloud/maxvnc-updates/main/windows/MaxVNC_Setup_2.4.1.exe",
-    "sha256": "20c1c07cca398fb4db907468440a82fca85b20c5351d9353c8728c69176f69d5",
-    "size": 24024064,
-    "notes": "Corrige le clavier et la souris ignorés par les fenêtres lancées en administrateur, et l'écran de connexion injoignable après une fermeture de session Windows."
+    "version": "2.4.2",
+    "url": "https://raw.githubusercontent.com/nitrouscars-cloud/maxvnc-updates/main/windows/MaxVNC_Setup_2.4.2.exe",
+    "sha256": "aa425d85b4fb2043ab7af3e08a62cb47badf83974abb578a67aa4b97d74aa913",
+    "size": 24317440,
+    "notes": "Mise à jour sans installateur ni confirmation ; clavier et souris dans les fenêtres administrateur ; écran de connexion après fermeture de session."
   },
   "android": {
     "version": "2.4",
@@ -13,5 +13,19 @@
     "sha256": "a365868159f993532a8adb2d6a2bb0f90299166770dd6f5b909aae160f97fb38",
     "size": 185653,
     "notes": "Correctif de sécurité : authentification liée au certificat TLS. Mises à jour intégrées."
+  },
+  "server": {
+    "version": "2.4.2",
+    "url": "https://raw.githubusercontent.com/nitrouscars-cloud/maxvnc-updates/main/windows/MaxVNC.Server.exe",
+    "sha256": "732640b87bd0e15f240f8a02f56689a15df7c91b5d69f6da50c04174f6296d2f",
+    "size": 10273280,
+    "notes": "Mise à jour sans installateur ni confirmation ; clavier et souris dans les fenêtres administrateur ; écran de connexion après fermeture de session."
+  },
+  "viewer": {
+    "version": "2.4.2",
+    "url": "https://raw.githubusercontent.com/nitrouscars-cloud/maxvnc-updates/main/windows/MaxVNC.Viewer.exe",
+    "sha256": "b002df64cc09ea85d23b8226c68a6c26ec255eacf13d00d700918707fd8c7e43",
+    "size": 9909248,
+    "notes": "Mise à jour sans installateur ni confirmation ; clavier et souris dans les fenêtres administrateur ; écran de connexion après fermeture de session."
   }
 }
